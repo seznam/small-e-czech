@@ -1,6 +1,6 @@
 # Small-E-Czech
 
-Představujeme vám Small-E-Czech. A co to vlastně Small-E-Czech je? Jedná se o novou neuronovou síť natrénovanou v Seznamu. Ta je schopná řešit úlohy spjaté s porozuměním českému jazyku. Povedlo se nám díky ní zvýšit kvalitu výsledků vyhledávání nebo opravy překlepů. A teď ji máte od nás na Githubu k dispozici i vy.
+Představujeme vám Small-E-Czech \[smolíček\]. A co to vlastně Small-E-Czech je? Jedná se o novou neuronovou síť natrénovanou v [Seznam.cz](https://www.seznam.cz/). Je schopná řešit úlohy spjaté s porozuměním českému jazyku. Povedlo se nám díky ní zvýšit kvalitu výsledků vyhledávání nebo opravy překlepů. A teď ji máte od nás na Githubu k dispozici i vy.
 
 ## Jak se Small-E-Czech učí
 
@@ -24,4 +24,4 @@ Small-E-Czech je se svými 14 miliony vahami výrazně menší sítí než třeb
 V Seznamu jsme použili Small-E-Czech například jako vstup do modelu, který řadí výsledky vyhledávání. Podle našich měření víme, že jsme tak zvýšili kvalitu zobrazených výsledků v průměru o 4 %. Dodáváme pomocí něj také vektory pro dotazy a webové stránky do tzv. [vektorového hledání](https://blog.seznam.cz/2021/02/vyhledavani-pomoci-vyznamovych-vektoru/). Přispěl ke zlepšení oprav překlepů v dotazech, které jsou díky chytřejším návrhům průměrně o 30 % rychlejší a jednotky procent lepší (v pokrytí a přesnosti). Pro feed článků na homepage Seznamu s precision 99.5 % a recallem 85 %. Možnosti využití jsou zkrátka široké.
 
 
-Abychom podpořili výzkum jazykových modelů pro češtinu a umožnili nasazení modelu Small-E-Czech i v oblastech, kterým se v Seznamu nevěnujeme, rozhodli jsme se jej zveřejnit – a to i pro komerční použití. Model snadno stáhnete z HuggingFace [repozitáře](https://huggingface.co/Seznam/small-e-czech), kde je i krátký návod, jak jej aplikovat na novou úlohu. Budeme rádi, když o nových aplikacích dáte vědět a třeba inspirujete další.
+Abychom podpořili výzkum jazykových modelů pro češtinu a umožnili nasazení modelu Small-E-Czech i v oblastech, kterým se v Seznamu nevěnujeme, rozhodli jsme se jej zveřejnit – a to i pro komerční použití. Model snadno stáhnete z [HuggingFace repozitáře](https://huggingface.co/Seznam/small-e-czech), kde je i krátký návod, jak jej aplikovat na novou úlohu. Budeme rádi, když o nových aplikacích dáte vědět a třeba inspirujete další.
