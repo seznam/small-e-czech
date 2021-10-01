@@ -1,4 +1,4 @@
-#Small-E-Czech
+# Small-E-Czech
 
 Představujeme vám Small-E-Czech. A co to vlastně Small-E-Czech je? Jedná se o novou neuronovou síť natrénovanou v Seznamu. Ta je schopná řešit úlohy spjaté s porozuměním českému jazyku. Povedlo se nám díky ní zvýšit kvalitu výsledků vyhledávání nebo opravy překlepů. A teď ji máte od nás na Githubu k dispozici i vy.
 
