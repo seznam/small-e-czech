@@ -12,5 +12,6 @@
   "max_position_embeddings": 512,
   "type_vocab_size": 2,
   "vocab_size": 30522,
-  "num_labels": 1
+  "num_labels": 1,
+  "model_type": "electra"
 }
