@@ -1,5 +1,7 @@
 # Small-E-Czech
 
+![Small-E-Czech](smolicek.png)
+
 Představujeme vám Small-E-Czech \[smolíček\]. A co to vlastně Small-E-Czech je? Jedná se o novou neuronovou síť natrénovanou v [Seznam.cz](https://www.seznam.cz/). Je schopná řešit úlohy spjaté s porozuměním českému jazyku. Povedlo se nám díky ní zvýšit kvalitu výsledků vyhledávání nebo opravy překlepů. A teď ji máte od nás na Githubu k dispozici i vy.
 
 ## Jak se Small-E-Czech učí
